@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Islamia College Peshawar</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="width-100 top-header">
+<div class="container">
+    <div class="width-100">
+<b class="news-list">NEWS :</b>
+<marquee class="headquote" >Welcome to Islamia College Peshawar</marquee>
+    </div>
+    </div>
+    </div>
+    <div class="100-width header-menu">
+    <div class="container">
+    <div class="logo"> <img src="images/logoicp1.png"></div>
+    <ul class="main-menu">
+        <li><a href="https://icp.edu.pk/index.php">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Administration</a></li>
+        <li><a href="#">Acedemic</a></li>
+        <li><a href="#">Admission</a></li>
+        <li><a href="#">Examinaton</a></li>
+
+    </ul>
+    </div>
+    </div>
+    <div class="width-100">
+     <img class="width-slider" src="images/slider.jpeg" alt="">
+        </div>
+        <div class="width-100 margin-top-50">
+        <div class="container">
+        <div class="width-33">
+            <div class="News-and-Events">
+                <div class="heading-section">
+                    <h3 class="head-title">News And Events</h3> 
+                    </div>
+                    <marquee direction="up">
+ <ul class="News-and-Events-ul">
+    <li>Admission are open for Boys and Girls at Islamia Collagiate School (2024-08-08) <img src="images/newicon.gif"> </li>
+    <li>FA/FSc admissions (Girls and Boys) are open (2024-08-03 )<img src="images/newicon.gif"></li>
+    <li>MPhil / PhD /MBA(2 year) admissions are open (2024-07-31 )<img src="images/newicon.gif"></li>
+    <li>Registration open for Digital Marketing and Freelancing Course. ( )</li>
+    <li>Registration open for CSS Pashto Preparatory Classes ( )</li>
+    <li>Application are invited for the Position of MPhil Studentship ( )</li>
+    <li>Registration open for two weeks English speaking Course ( )</li>
+    <li>Registration are open for HEC Need Based Scholarship ( )</li>
+    <li>Invitation for investment of funds ( )</li>
+ </ul>
+</marquee>
+</div>
+ </div>
+<div class="width-33">
+    <div class="event-list">
+        <div class="heading-section">
+            <h3 class="head-title">Upcoming Events</h3>
+         </div>
+            <ul class="upcoming-event-list">
+                <li> <span class="event-date">30 <br> March</span><span>Seminar is conducted on BBA courses</span></li>
+                <li> <span class="event-date">01 <br> April</span><span>Seminar is conducted on BCS courses</span></li>
+                <li> <span class="event-date">15 <br> April</span><span>Seminar is conducted on B.com courses</span></li>
+                <li> <span class="event-date">04 <br> May</span><span>Seminar is conducted on BCA courses</span></li>
+            </ul>
+            </div>
+            </div>
+            <div class="width-33">
+                <div class="Media">
+                    <div class="heading-section">
+                        <h3 class="head-title">Media</h3> 
+                    </div>
+                    <ul class="Media-list">
+                <li><img src="images/notice-board-img.png"> Official Anthem</li>
+                <li><img src="images/notice-board-img.png">Daily News Paper cutting</li>
+                <li><img src="images/notice-board-img.png">Right to information related data</li>
+                <li><img src="images/notice-board-img.png">Video Gallery of Islamia College Peshawar</li>
+                <li><img src="images/notice-board-img.png">Picture Gallery of Islamia College Peshawar</li>
+                    </ul>
+        </div>
+        </div>
+        <div class="width-100 ">
+            <div class="container">
+            <div class="width-33">
+                <div class="Our-principal">
+                    <div class="heading-section">
+                        <h3 class="head-title">Useful Information</h3> 
+                        </div>
+                    
+     <ul class="useful-info-ul">
+        <li><img src="images/info-list-img1.png" alt=""><a href="#" >Online Services</a></li>
+        <li><img src="images/info-list-img2.png" alt=""><a href="#">Online Result</a></li>
+        <li><img src="images/info-list-img3.png" alt=""><a href="#">Exam Time Table</a></li>
+        <li><img src="images/info-list-img4.png" alt=""><a href="#">Tenders</a></li>
+        </ul>
+        </div>
+        </div>
+        <div class="width-33">
+            <div class="About-us">
+                <div class="heading-section">
+                    <h3 class="head-title">Useful Information</h3> 
+                    </div>
+                    <div class="width-100 gov-sec-style">
+                     <div class="width-40">
+                        <img class="vc-img" src="images/vc.jpeg" alt="">
+</div>
+<div class="width-60">
+    <p class="vc-name">Prof. Dr. Ali Muhammad Yousafzai</p>
+    <p class="vc-designation">Vice Chancellor</p>
+</div>
+</div>
+</div>
+ </div>
+ <div class="width-33">
+    <div class="certificate">
+        <div class="heading-section">
+            <h3 class="head-title">HEC Vision</h3> 
+        </div>
+        <img  src="images/hec.jpg" class="width-100">
+        </div>
+        </div>
+        <div class="width-100 margin-top-50 footer">
+            <div class="container">
+                <div class="width-25" >
+                    <h2 class="quicklink-heading">Quick Links</h2>
+                    <ul class="quicklink-menu">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Gallery</a></li>
+                        <li><a href="https://icp.edu.pk/page.php?abc=201412300248325">Contact Us</a></li>
+     </ul>
+              </div>
+              <!-- <div class="width-25" >
+                <h2 class="student-heading">Student Section</h2>
+                <ul class="student-menu">
+                    <li><a href="#">Result</a></li>
+                    <li><a href="#">Pilicies</a></li>
+                    <li><a href="#">Admission open</a></li>
+                    <li><a href="#">Departments</a></li>
+            </ul>
+            </div>
+            <div class="width-25" >
+                <h2 class="quicklink-heading">Get In Touch</h2>
+                <ul class="get-in-touch-menu">
+                    <li><i class="fa fa-envelope"></i> Email : <a href="#">https://www.icp.edu.pk/</a></li>
+                    <li><i class="fa fa-whatsapp"></i> Whatsapp no : 0311-0397978</li>
+                    <li><i class="fa fa-phone"></i> Contact no : 0311-0397978</li>
+                    <li><i class="fa fa-server"></i> WEBSITE : <a href="#">https://www.icp.edu.pk/</a></li>
+            </ul>
+            </div> -->
+
+              </div>
+              </div>
+</body>
+</html>
